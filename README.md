@@ -28,5 +28,10 @@ I am a person who loves everything about Internet &amp; web development. At the 
 - [Web Whatsapp Native dark Mode](https://dev.to/dippas/web-whatsapp-native-dark-mode-3baa)
 <!-- BLOG-POST-LIST:END -->
 
+### You can find me online
+[![Linkedin](https://i.imgur.com/WsVT8IF.png)](https://www.linkedin.com/in/fabioserpa/)
+[![SO](https://i.imgur.com/6wGKyEh.png)](https://stackoverflow.com/users/3448527/dippas)
+[![Twitter](https://i.imgur.com/phxhAbA.png)](https://twitter.com/fabioserpa)
+
 ### Visitors
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dippas.dippas)
