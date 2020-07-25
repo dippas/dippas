@@ -11,6 +11,11 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Comment by dippas on Is there a way to detect is any video playing on the web page using javascript](https://stackoverflow.com/questions/29742605/is-there-a-way-to-detect-is-any-video-playing-on-the-web-page-using-javascript)
+- [Comment by dippas on S3 browser upload with meta deta](https://stackoverflow.com/questions/63050704/s3-browser-upload-with-meta-deta)
+- [Comment by dippas on Is setting `pointer-events: none;` on header elements an accsssibility issue?](https://stackoverflow.com/questions/62986171/is-setting-pointer-events-none-on-header-elements-an-accsssibility-issue)
+- [Comment by dippas on (type=Internal Server Error, status=500). No converter found for return value of type: class com.test.SearchVO](https://stackoverflow.com/questions/36769622/type-internal-server-error-status-500-no-converter-found-for-return-value-of/62968618#62968618)
+- [Comment by dippas on Why are there gaps between my SVG shapes?](https://stackoverflow.com/questions/7196825/why-are-there-gaps-between-my-svg-shapes)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
