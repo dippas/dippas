@@ -16,11 +16,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Comment by dippas on Boostrap 4 multiselect](https://stackoverflow.com/questions/61695581/boostrap-4-multiselect)
+- [Comment by dippas on How can I make a multiselect dropdown not in HTML. It needs to be in good UI](https://stackoverflow.com/questions/52515290/how-can-i-make-a-multiselect-dropdown-not-in-html-it-needs-to-be-in-good-ui)
 - [Comment by dippas on Is there a way to detect is any video playing on the web page using javascript](https://stackoverflow.com/questions/29742605/is-there-a-way-to-detect-is-any-video-playing-on-the-web-page-using-javascript)
 - [Comment by dippas on Is setting `pointer-events: none;` on header elements an accsssibility issue?](https://stackoverflow.com/questions/62986171/is-setting-pointer-events-none-on-header-elements-an-accsssibility-issue)
 - [Comment by dippas on (type=Internal Server Error, status=500). No converter found for return value of type: class com.test.SearchVO](https://stackoverflow.com/questions/36769622/type-internal-server-error-status-500-no-converter-found-for-return-value-of/62968618#62968618)
-- [Comment by dippas on Why are there gaps between my SVG shapes?](https://stackoverflow.com/questions/7196825/why-are-there-gaps-between-my-svg-shapes)
-- [Answer by dippas for SCSS: -ms-prefix causes error in CSS file](https://stackoverflow.com/questions/62387324/scss-ms-prefix-causes-error-in-css-file/62387483#62387483)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
