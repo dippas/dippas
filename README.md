@@ -16,11 +16,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Comment by dippas on Need some help on creating a simple HTML form with a Javascript](https://stackoverflow.com/questions/63159281/need-some-help-on-creating-a-simple-html-form-with-a-javascript)
 - [Comment by dippas on Boostrap 4 multiselect](https://stackoverflow.com/questions/61695581/boostrap-4-multiselect)
 - [Comment by dippas on How can I make a multiselect dropdown not in HTML. It needs to be in good UI](https://stackoverflow.com/questions/52515290/how-can-i-make-a-multiselect-dropdown-not-in-html-it-needs-to-be-in-good-ui)
 - [Comment by dippas on Is there a way to detect is any video playing on the web page using javascript](https://stackoverflow.com/questions/29742605/is-there-a-way-to-detect-is-any-video-playing-on-the-web-page-using-javascript)
 - [Comment by dippas on Is setting `pointer-events: none;` on header elements an accsssibility issue?](https://stackoverflow.com/questions/62986171/is-setting-pointer-events-none-on-header-elements-an-accsssibility-issue)
-- [Comment by dippas on (type=Internal Server Error, status=500). No converter found for return value of type: class com.test.SearchVO](https://stackoverflow.com/questions/36769622/type-internal-server-error-status-500-no-converter-found-for-return-value-of/62968618#62968618)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
