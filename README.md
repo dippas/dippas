@@ -16,7 +16,7 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Comment by dippas on Need some help on creating a simple HTML form with a Javascript](https://stackoverflow.com/questions/63159281/need-some-help-on-creating-a-simple-html-form-with-a-javascript)
+- [Comment by dippas on Creating a simple HTML form with a JavaScript](https://stackoverflow.com/questions/63159281/creating-a-simple-html-form-with-a-javascript)
 - [Comment by dippas on Boostrap 4 multiselect](https://stackoverflow.com/questions/61695581/boostrap-4-multiselect)
 - [Comment by dippas on How can I make a multiselect dropdown not in HTML. It needs to be in good UI](https://stackoverflow.com/questions/52515290/how-can-i-make-a-multiselect-dropdown-not-in-html-it-needs-to-be-in-good-ui)
 - [Comment by dippas on Is there a way to detect is any video playing on the web page using javascript](https://stackoverflow.com/questions/29742605/is-there-a-way-to-detect-is-any-video-playing-on-the-web-page-using-javascript)
