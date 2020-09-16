@@ -16,7 +16,7 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by dippas for how to make container take full width with using bootstrap/4.5.2 in phone devices](https://stackoverflow.com/questions/63838456/how-to-make-container-take-full-width-with-using-bootstrap-4-5-2-in-phone-device/63838486#63838486)
+- [Answer by dippas for How to make container take full width in phone devices using Bootstrap](https://stackoverflow.com/questions/63838456/how-to-make-container-take-full-width-in-phone-devices-using-bootstrap/63838486#63838486)
 - [Answer by dippas for SCSS: -ms-prefix causes error in CSS file](https://stackoverflow.com/questions/62387324/scss-ms-prefix-causes-error-in-css-file/62387483#62387483)
 - [Answer by dippas for Flex container with overflow](https://stackoverflow.com/questions/62331420/flex-container-with-overflow/62331518#62331518)
 - [Answer by dippas for How can we ensure that text doesn't fall down when neighbor text wraps to multiple lines](https://stackoverflow.com/questions/62263118/how-can-we-ensure-that-text-doesnt-fall-down-when-neighbor-text-wraps-to-multip/62263193#62263193)
