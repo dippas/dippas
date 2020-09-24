@@ -16,11 +16,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for querySelector throws error now data format has changed](https://stackoverflow.com/questions/64042726/queryselector-throws-error-now-data-format-has-changed/64042954#64042954)
 - [Answer by dippas for Change all border colors](https://stackoverflow.com/questions/64018690/change-all-border-colors/64018754#64018754)
 - [Answer by dippas for How to create a 33% / 33% / 33% / 100% / 100% flexbox layout?](https://stackoverflow.com/questions/63928788/how-to-create-a-33-33-33-100-100-flexbox-layout/63929008#63929008)
 - [Answer by dippas for How to make container take full width in phone devices using Bootstrap](https://stackoverflow.com/questions/63838456/how-to-make-container-take-full-width-in-phone-devices-using-bootstrap/63838486#63838486)
 - [Answer by dippas for SCSS: -ms-prefix causes error in CSS file](https://stackoverflow.com/questions/62387324/scss-ms-prefix-causes-error-in-css-file/62387483#62387483)
-- [Answer by dippas for Flex container with overflow](https://stackoverflow.com/questions/62331420/flex-container-with-overflow/62331518#62331518)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
