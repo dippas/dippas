@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for How to blur the parent only on hover and show child element](https://stackoverflow.com/questions/64499380/how-to-blur-the-parent-only-on-hover-and-show-child-element/64499525#64499525)
 - [Answer by dippas for bootstrap row > column selection issue](https://stackoverflow.com/questions/64471204/bootstrap-row-column-selection-issue/64471274#64471274)
 - [Answer by dippas for Custom Self Closing tags](https://stackoverflow.com/questions/64463826/custom-self-closing-tags/64463917#64463917)
 - [Answer by dippas for Change all border colors](https://stackoverflow.com/questions/64018690/change-all-border-colors/64018754#64018754)
 - [Answer by dippas for How to create a 33% / 33% / 33% / 100% / 100% flexbox layout?](https://stackoverflow.com/questions/63928788/how-to-create-a-33-33-33-100-100-flexbox-layout/63929008#63929008)
-- [Answer by dippas for How to make container take full width in phone devices using Bootstrap](https://stackoverflow.com/questions/63838456/how-to-make-container-take-full-width-in-phone-devices-using-bootstrap/63838486#63838486)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
