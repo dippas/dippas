@@ -26,6 +26,7 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### DEV.to posts
 <!-- BLOG-POST-LIST:START -->
+- [Frontend Starter-Kit](https://dev.to/dippas/frontend-starter-kit-1fok)
 - [DeleteNonio - Extension for Portuguese news websites](https://dev.to/dippas/deletenonio-extension-for-portuguese-news-websites-259n)
 - [Web Whatsapp Native dark Mode](https://dev.to/dippas/web-whatsapp-native-dark-mode-3baa)
 <!-- BLOG-POST-LIST:END -->
