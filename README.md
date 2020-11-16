@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for Auto move to next tab when an input fills with 1 integer](https://stackoverflow.com/questions/64856075/auto-move-to-next-tab-when-an-input-fills-with-1-integer/64856191#64856191)
 - [Answer by dippas for Different icons in the circle are shown as eggs](https://stackoverflow.com/questions/64837106/different-icons-in-the-circle-are-shown-as-eggs/64837225#64837225)
 - [Answer by dippas for Force column to stay on right (float-right)](https://stackoverflow.com/questions/64836644/force-column-to-stay-on-right-float-right/64836719#64836719)
 - [Answer by dippas for Initial styling of <sup> and <sub> tags](https://stackoverflow.com/questions/64836096/initial-styling-of-sup-and-sub-tags/64836174#64836174)
 - [Answer by dippas for How can I rotate box-shadow?](https://stackoverflow.com/questions/64771428/how-can-i-rotate-box-shadow/64771468#64771468)
-- [Answer by dippas for What is better practice use <a> or <a role="button"> for accessibility?](https://stackoverflow.com/questions/64655370/what-is-better-practice-use-a-or-a-role-button-for-accessibility/64655503#64655503)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
