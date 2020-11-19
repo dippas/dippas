@@ -17,7 +17,7 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by dippas for Style first table row of group identified by td classname sibling to another row in pure CSS](https://stackoverflow.com/questions/64909480/style-first-table-row-of-group-identified-by-td-classname-sibling-to-another-row/64909560#64909560)
+- [Answer by dippas for Style first table row of group identified by td classname sibling to another row](https://stackoverflow.com/questions/64909480/style-first-table-row-of-group-identified-by-td-classname-sibling-to-another-row/64909560#64909560)
 - [Answer by dippas for Auto move to next tab when an input fills with 1 integer](https://stackoverflow.com/questions/64856075/auto-move-to-next-tab-when-an-input-fills-with-1-integer/64856191#64856191)
 - [Answer by dippas for Different icons in the circle are shown as eggs](https://stackoverflow.com/questions/64837106/different-icons-in-the-circle-are-shown-as-eggs/64837225#64837225)
 - [Answer by dippas for Force column to stay on right (float-right)](https://stackoverflow.com/questions/64836644/force-column-to-stay-on-right-float-right/64836719#64836719)
