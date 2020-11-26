@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for Remove CSS property added by insertRule()](https://stackoverflow.com/questions/65020487/remove-css-property-added-by-insertrule/65021160#65021160)
 - [Answer by dippas for How to check an array against a regex with jQuery?](https://stackoverflow.com/questions/65009599/how-to-check-an-array-against-a-regex-with-jquery/65009707#65009707)
 - [Answer by dippas for Assigning user dropdown selection to variable using jQuery](https://stackoverflow.com/questions/64996582/assigning-user-dropdown-selection-to-variable-using-jquery/64996749#64996749)
 - [Answer by dippas for Why is '::after' pseudo-selector over the image and not under it?](https://stackoverflow.com/questions/64996565/why-is-after-pseudo-selector-over-the-image-and-not-under-it/64996608#64996608)
 - [Answer by dippas for Tooltips work in Firefox but not in Chrome](https://stackoverflow.com/questions/64995585/tooltips-work-in-firefox-but-not-in-chrome/64995638#64995638)
-- [Answer by dippas for How can I loop the function playRound()?](https://stackoverflow.com/questions/64978538/how-can-i-loop-the-function-playround/64978654#64978654)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
