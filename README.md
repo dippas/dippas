@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by dippas for JS: Exclude HTML tag from replace();](https://stackoverflow.com/questions/65045455/js-exclude-html-tag-from-replace/65045519#65045519)
 - [Answer by dippas for Hide div if clicked outside it but not if the toggle div for show hide is clicked](https://stackoverflow.com/questions/65030265/hide-div-if-clicked-outside-it-but-not-if-the-toggle-div-for-show-hide-is-clicke/65030326#65030326)
 - [Answer by dippas for Remove CSS property added by insertRule()](https://stackoverflow.com/questions/65020487/remove-css-property-added-by-insertrule/65021160#65021160)
 - [Answer by dippas for How to check an array against a regex with jQuery?](https://stackoverflow.com/questions/65009599/how-to-check-an-array-against-a-regex-with-jquery/65009707#65009707)
 - [Answer by dippas for Assigning user dropdown selection to variable using jQuery](https://stackoverflow.com/questions/64996582/assigning-user-dropdown-selection-to-variable-using-jquery/64996749#64996749)
+- [Answer by dippas for Why is '::after' pseudo-selector over the image and not under it?](https://stackoverflow.com/questions/64996565/why-is-after-pseudo-selector-over-the-image-and-not-under-it/64996608#64996608)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
