@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for Using line-height: 100% is staggering the elements instead of making them match in height](https://stackoverflow.com/questions/65064220/using-line-height-100-is-staggering-the-elements-instead-of-making-them-match/65064381#65064381)
 - [Answer by dippas for How to escape double quote in JSON string](https://stackoverflow.com/questions/65056355/how-to-escape-double-quote-in-json-string/65056405#65056405)
 - [Answer by dippas for Hide div if clicked outside it but not if the toggle div for show hide is clicked](https://stackoverflow.com/questions/65030265/hide-div-if-clicked-outside-it-but-not-if-the-toggle-div-for-show-hide-is-clicke/65030326#65030326)
 - [Answer by dippas for Remove CSS property added by insertRule()](https://stackoverflow.com/questions/65020487/remove-css-property-added-by-insertrule/65021160#65021160)
 - [Answer by dippas for How to check an array against a regex with jQuery?](https://stackoverflow.com/questions/65009599/how-to-check-an-array-against-a-regex-with-jquery/65009707#65009707)
-- [Answer by dippas for Assigning user dropdown selection to variable using jQuery](https://stackoverflow.com/questions/64996582/assigning-user-dropdown-selection-to-variable-using-jquery/64996749#64996749)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
