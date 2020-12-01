@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for Bootstrap 3 breakpoints doesnt work for mobile screens](https://stackoverflow.com/questions/65090914/bootstrap-3-breakpoints-doesnt-work-for-mobile-screens/65090967#65090967)
 - [Answer by dippas for Get buttons to fit the list element its in](https://stackoverflow.com/questions/65083242/get-buttons-to-fit-the-list-element-its-in/65083294#65083294)
 - [Answer by dippas for Viewport Ordering Issue](https://stackoverflow.com/questions/65075121/viewport-ordering-issue/65075454#65075454)
 - [Answer by dippas for Javascript restart feature](https://stackoverflow.com/questions/65067133/javascript-restart-feature/65067168#65067168)
 - [Answer by dippas for How to space out svgs in a list using css](https://stackoverflow.com/questions/65064730/how-to-space-out-svgs-in-a-list-using-css/65064845#65064845)
-- [Answer by dippas for Using line-height: 100% is staggering the elements instead of making them match in height](https://stackoverflow.com/questions/65064220/using-line-height-100-is-staggering-the-elements-instead-of-making-them-match/65064381#65064381)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
