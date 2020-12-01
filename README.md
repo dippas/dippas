@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for Button adding classes to HTML element using .classList.add(), reverts itself on first click](https://stackoverflow.com/questions/65095038/button-adding-classes-to-html-element-using-classlist-add-reverts-itself-on/65095296#65095296)
 - [Answer by dippas for How to make smaller divs inside flexbox?](https://stackoverflow.com/questions/65094988/how-to-make-smaller-divs-inside-flexbox/65095050#65095050)
 - [Answer by dippas for How can I buttons with ForEach that changes the background?](https://stackoverflow.com/questions/65093670/how-can-i-buttons-with-foreach-that-changes-the-background/65093961#65093961)
 - [Answer by dippas for How to exclude the first item in a flexbox nowrap?](https://stackoverflow.com/questions/65091152/how-to-exclude-the-first-item-in-a-flexbox-nowrap/65091293#65091293)
 - [Answer by dippas for Bootstrap 3 breakpoints doesnt work for mobile screens](https://stackoverflow.com/questions/65090914/bootstrap-3-breakpoints-doesnt-work-for-mobile-screens/65090967#65090967)
-- [Answer by dippas for Get buttons to fit the list element its in](https://stackoverflow.com/questions/65083242/get-buttons-to-fit-the-list-element-its-in/65083294#65083294)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
