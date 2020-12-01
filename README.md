@@ -17,7 +17,7 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by dippas for I'm struggling with trying to get these buttons to fit the list element its in](https://stackoverflow.com/questions/65083242/im-struggling-with-trying-to-get-these-buttons-to-fit-the-list-element-its-in/65083294#65083294)
+- [Answer by dippas for Get buttons to fit the list element its in](https://stackoverflow.com/questions/65083242/get-buttons-to-fit-the-list-element-its-in/65083294#65083294)
 - [Answer by dippas for Viewport Ordering Issue](https://stackoverflow.com/questions/65075121/viewport-ordering-issue/65075454#65075454)
 - [Answer by dippas for Javascript restart feature](https://stackoverflow.com/questions/65067133/javascript-restart-feature/65067168#65067168)
 - [Answer by dippas for How to space out svgs in a list using css](https://stackoverflow.com/questions/65064730/how-to-space-out-svgs-in-a-list-using-css/65064845#65064845)
