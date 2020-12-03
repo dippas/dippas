@@ -17,7 +17,7 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by dippas for How to get CSS variables to work in chrome 87](https://stackoverflow.com/questions/65118317/how-to-get-css-variables-to-work-in-chrome-87/65118362#65118362)
+- [Answer by dippas for CSS variables aren't being set](https://stackoverflow.com/questions/65118317/css-variables-arent-being-set/65118362#65118362)
 - [Answer by dippas for How can I buttons with ForEach that changes the background?](https://stackoverflow.com/questions/65093670/how-can-i-buttons-with-foreach-that-changes-the-background/65093961#65093961)
 - [Answer by dippas for How to exclude the first item in a flexbox nowrap?](https://stackoverflow.com/questions/65091152/how-to-exclude-the-first-item-in-a-flexbox-nowrap/65091293#65091293)
 - [Answer by dippas for Bootstrap 3 breakpoints doesnt work for mobile screens](https://stackoverflow.com/questions/65090914/bootstrap-3-breakpoints-doesnt-work-for-mobile-screens/65090967#65090967)
