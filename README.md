@@ -17,7 +17,7 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by dippas for SASS/SCSS: Alert Component - change the SVG color based on background color?](https://stackoverflow.com/questions/65130675/sass-scss-alert-component-change-the-svg-color-based-on-background-color/65158772#65158772)
+- [Answer by dippas for SCSS: Alert Component - change the SVG color based on background color?](https://stackoverflow.com/questions/65130675/scss-alert-component-change-the-svg-color-based-on-background-color/65158772#65158772)
 - [Answer by dippas for Vertically align block-level element in a list item within a nested list using counters?](https://stackoverflow.com/questions/65157115/vertically-align-block-level-element-in-a-list-item-within-a-nested-list-using-c/65157187#65157187)
 - [Answer by dippas for multiple audio html : auto stop other when current is playing](https://stackoverflow.com/questions/65150226/multiple-audio-html-auto-stop-other-when-current-is-playing/65152944#65152944)
 - [Answer by dippas for CSS variables aren't being set](https://stackoverflow.com/questions/65118317/css-variables-arent-being-set/65118362#65118362)
