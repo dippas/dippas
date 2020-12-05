@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for Vertically align block-level element in a list item within a nested list using counters?](https://stackoverflow.com/questions/65157115/vertically-align-block-level-element-in-a-list-item-within-a-nested-list-using-c/65157187#65157187)
 - [Answer by dippas for multiple audio html : auto stop other when current is playing](https://stackoverflow.com/questions/65150226/multiple-audio-html-auto-stop-other-when-current-is-playing/65152944#65152944)
 - [Answer by dippas for CSS variables aren't being set](https://stackoverflow.com/questions/65118317/css-variables-arent-being-set/65118362#65118362)
 - [Answer by dippas for How can I buttons with ForEach that changes the background?](https://stackoverflow.com/questions/65093670/how-can-i-buttons-with-foreach-that-changes-the-background/65093961#65093961)
 - [Answer by dippas for Bootstrap 3 breakpoints doesnt work for mobile screens](https://stackoverflow.com/questions/65090914/bootstrap-3-breakpoints-doesnt-work-for-mobile-screens/65090967#65090967)
-- [Answer by dippas for Get buttons to fit the list element its in](https://stackoverflow.com/questions/65083242/get-buttons-to-fit-the-list-element-its-in/65083294#65083294)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
