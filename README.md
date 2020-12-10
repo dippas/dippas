@@ -17,7 +17,7 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by dippas for background keeps repeating itself css](https://stackoverflow.com/questions/65234465/background-keeps-repeating-itself-css/65234541#65234541)
+- [Answer by dippas for Background image doesn't change for each slide](https://stackoverflow.com/questions/65234465/background-image-doesnt-change-for-each-slide/65234541#65234541)
 - [Answer by dippas for Flexbox Layout SCSS](https://stackoverflow.com/questions/65186145/flexbox-layout-scss/65186394#65186394)
 - [Answer by dippas for SCSS: Alert Component - change the SVG color based on background color?](https://stackoverflow.com/questions/65130675/scss-alert-component-change-the-svg-color-based-on-background-color/65158772#65158772)
 - [Answer by dippas for Vertically align block-level element in a list item within a nested list using counters?](https://stackoverflow.com/questions/65157115/vertically-align-block-level-element-in-a-list-item-within-a-nested-list-using-c/65157187#65157187)
