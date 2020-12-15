@@ -17,7 +17,7 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by dippas for Understanding a difference between the shorthand flex and flex-basis properties](https://stackoverflow.com/questions/65309791/understanding-a-difference-between-the-shorthand-flex-and-flex-basis-properties/65310395#65310395)
+- [Answer by dippas for Difference between the shorthand flex and flex-basis properties](https://stackoverflow.com/questions/65309791/difference-between-the-shorthand-flex-and-flex-basis-properties/65310395#65310395)
 - [Answer by dippas for Add padding to last Child if only 2 are present](https://stackoverflow.com/questions/65276447/add-padding-to-last-child-if-only-2-are-present/65276534#65276534)
 - [Answer by dippas for Grid N*N Pattern based on user's choice](https://stackoverflow.com/questions/65270202/grid-nn-pattern-based-on-users-choice/65272398#65272398)
 - [Answer by dippas for Is it <centre> or <center>?](https://stackoverflow.com/questions/65260768/is-it-centre-or-center/65260824#65260824)
