@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for CSS selector for tag that not contains child elements of a particular tag](https://stackoverflow.com/questions/65356431/css-selector-for-tag-that-not-contains-child-elements-of-a-particular-tag/65356585#65356585)
 - [Answer by dippas for Difference between the shorthand flex and flex-basis properties](https://stackoverflow.com/questions/65309791/difference-between-the-shorthand-flex-and-flex-basis-properties/65310395#65310395)
 - [Answer by dippas for Add padding to last Child if only 2 are present](https://stackoverflow.com/questions/65276447/add-padding-to-last-child-if-only-2-are-present/65276534#65276534)
 - [Answer by dippas for Grid N*N Pattern based on user's choice](https://stackoverflow.com/questions/65270202/grid-nn-pattern-based-on-users-choice/65272398#65272398)
 - [Answer by dippas for Is it <centre> or <center>?](https://stackoverflow.com/questions/65260768/is-it-centre-or-center/65260824#65260824)
-- [Answer by dippas for Use flexbox to create a responsive wrappable row of buttons](https://stackoverflow.com/questions/65243865/use-flexbox-to-create-a-responsive-wrappable-row-of-buttons/65244007#65244007)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
