@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for Continuous border across multiple elements](https://stackoverflow.com/questions/65621939/continuous-border-across-multiple-elements/65622031#65622031)
 - [Answer by dippas for Javascript addEventListener from a given function string name as an argument](https://stackoverflow.com/questions/65621481/javascript-addeventlistener-from-a-given-function-string-name-as-an-argument/65621530#65621530)
 - [Answer by dippas for Start/Stop button not working as expected](https://stackoverflow.com/questions/65604435/start-stop-button-not-working-as-expected/65604510#65604510)
 - [Answer by dippas for Hide Replace divs with replaceWith() issues](https://stackoverflow.com/questions/65588638/hide-replace-divs-with-replacewith-issues/65588938#65588938)
 - [Answer by dippas for button won't change color](https://stackoverflow.com/questions/65562740/button-wont-change-color/65562851#65562851)
-- [Answer by dippas for Select multiple options with different values of a select element](https://stackoverflow.com/questions/65397044/select-multiple-options-with-different-values-of-a-select-element/65397123#65397123)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
