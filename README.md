@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for Sass undefined operation when multiplying colors](https://stackoverflow.com/questions/65766094/sass-undefined-operation-when-multiplying-colors/65766128#65766128)
 - [Answer by dippas for Difference between m and g modifiers?](https://stackoverflow.com/questions/65751244/difference-between-m-and-g-modifiers/65751295#65751295)
 - [Answer by dippas for Using variable inside anonymous function .on](https://stackoverflow.com/questions/65648483/using-variable-inside-anonymous-function-on/65648534#65648534)
 - [Answer by dippas for Continuous border across multiple elements](https://stackoverflow.com/questions/65621939/continuous-border-across-multiple-elements/65622031#65622031)
 - [Answer by dippas for Javascript addEventListener from a given function string name as an argument](https://stackoverflow.com/questions/65621481/javascript-addeventlistener-from-a-given-function-string-name-as-an-argument/65621530#65621530)
-- [Answer by dippas for Start/Stop button not working as expected](https://stackoverflow.com/questions/65604435/start-stop-button-not-working-as-expected/65604510#65604510)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
