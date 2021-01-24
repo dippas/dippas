@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for I can't use the same CSS property with a different value when toggling a class](https://stackoverflow.com/questions/65865682/i-cant-use-the-same-css-property-with-a-different-value-when-toggling-a-class/65865763#65865763)
 - [Answer by dippas for Big Image in the center sourrounded by smaler Images with Felxbox?](https://stackoverflow.com/questions/65854457/big-image-in-the-center-sourrounded-by-smaler-images-with-felxbox/65854577#65854577)
 - [Answer by dippas for The square does not move JavaScript](https://stackoverflow.com/questions/65853043/the-square-does-not-move-javascript/65853203#65853203)
 - [Answer by dippas for Change font-size for table column](https://stackoverflow.com/questions/65810336/change-font-size-for-table-column/65810580#65810580)
 - [Answer by dippas for Using variable inside anonymous function .on](https://stackoverflow.com/questions/65648483/using-variable-inside-anonymous-function-on/65648534#65648534)
-- [Answer by dippas for Continuous border across multiple elements](https://stackoverflow.com/questions/65621939/continuous-border-across-multiple-elements/65622031#65622031)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
