@@ -8,7 +8,7 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### My Github stats
 [![dippas's github stats](https://github-readme-stats.vercel.app/api?username=dippas&show_icons=true&theme=dark)](https://github.com/dippas)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dippas&theme=dark)](https://github.com/dippas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dippas&theme=dark&layout=compact)](https://github.com/dippas)
 
 ### My Github projects
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=dippas&repo=WebWhatsapp-Native-DarkMode&theme=dark)](https://github.com/dippas/WebWhatsapp-Native-DarkMode)
