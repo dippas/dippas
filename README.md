@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for Styling odd/even rows of a table differently](https://stackoverflow.com/questions/66217633/styling-odd-even-rows-of-a-table-differently/66217661#66217661)
 - [Answer by dippas for How can i style an element without adding a class or id to my HTML?](https://stackoverflow.com/questions/66217335/how-can-i-style-an-element-without-adding-a-class-or-id-to-my-html/66217367#66217367)
 - [Answer by dippas for Get value of object by knowing an other value of this object](https://stackoverflow.com/questions/66188097/get-value-of-object-by-knowing-an-other-value-of-this-object/66188133#66188133)
 - [Answer by dippas for Open modal by clicking on a button and hide modal by clicking on a close button](https://stackoverflow.com/questions/66185475/open-modal-by-clicking-on-a-button-and-hide-modal-by-clicking-on-a-close-button/66186000#66186000)
 - [Answer by dippas for How to remove all links from an html content](https://stackoverflow.com/questions/66185731/how-to-remove-all-links-from-an-html-content/66185772#66185772)
-- [Answer by dippas for How to select parent using SCSS](https://stackoverflow.com/questions/66138710/how-to-select-parent-using-scss/66138795#66138795)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
