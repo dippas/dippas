@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for Bootstrap 5 - Change accordion button collapsed icon color](https://stackoverflow.com/questions/66231936/bootstrap-5-change-accordion-button-collapsed-icon-color/66232380#66232380)
 - [Answer by dippas for Why is the tilde ~ not working in Javascript querySelector but works in CSS?](https://stackoverflow.com/questions/66217777/why-is-the-tilde-not-working-in-javascript-queryselector-but-works-in-css/66217793#66217793)
 - [Answer by dippas for Styling odd/even rows of a table differently](https://stackoverflow.com/questions/66217633/styling-odd-even-rows-of-a-table-differently/66217661#66217661)
 - [Answer by dippas for How can i style an element without adding a class or id to my HTML?](https://stackoverflow.com/questions/66217335/how-can-i-style-an-element-without-adding-a-class-or-id-to-my-html/66217367#66217367)
 - [Answer by dippas for Get value of object by knowing an other value of this object](https://stackoverflow.com/questions/66188097/get-value-of-object-by-knowing-an-other-value-of-this-object/66188133#66188133)
-- [Answer by dippas for Open modal by clicking on a button and hide modal by clicking on a close button](https://stackoverflow.com/questions/66185475/open-modal-by-clicking-on-a-button-and-hide-modal-by-clicking-on-a-close-button/66186000#66186000)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
