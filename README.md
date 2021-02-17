@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for How do I displaying "0" event when database is empty with ".length"](https://stackoverflow.com/questions/66251221/how-do-i-displaying-0-event-when-database-is-empty-with-length/66251242#66251242)
 - [Answer by dippas for How to make my first collapsible open by default](https://stackoverflow.com/questions/66244111/how-to-make-my-first-collapsible-open-by-default/66244402#66244402)
 - [Answer by dippas for Change accordion button collapsed icon color in Bootstrap 5](https://stackoverflow.com/questions/66231936/change-accordion-button-collapsed-icon-color-in-bootstrap-5/66232380#66232380)
 - [Answer by dippas for Why is the tilde ~ not working in Javascript querySelector but works in CSS?](https://stackoverflow.com/questions/66217777/why-is-the-tilde-not-working-in-javascript-queryselector-but-works-in-css/66217793#66217793)
 - [Answer by dippas for Styling odd/even rows of a table differently](https://stackoverflow.com/questions/66217633/styling-odd-even-rows-of-a-table-differently/66217661#66217661)
-- [Answer by dippas for How can i style an element without adding a class or id to my HTML?](https://stackoverflow.com/questions/66217335/how-can-i-style-an-element-without-adding-a-class-or-id-to-my-html/66217367#66217367)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
