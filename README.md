@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for How to remove an element added by JS](https://stackoverflow.com/questions/66317051/how-to-remove-an-element-added-by-js/66317121#66317121)
 - [Answer by dippas for SASS BEM Wildcards](https://stackoverflow.com/questions/66308788/sass-bem-wildcards/66308999#66308999)
 - [Answer by dippas for Apply :hover on parent div but not on child elements](https://stackoverflow.com/questions/66306512/apply-hover-on-parent-div-but-not-on-child-elements/66306549#66306549)
 - [Answer by dippas for How to stop an adjacent button from moving with a button with has a changing margin](https://stackoverflow.com/questions/66295644/how-to-stop-an-adjacent-button-from-moving-with-a-button-with-has-a-changing-mar/66295687#66295687)
 - [Answer by dippas for Hide messages from particular users](https://stackoverflow.com/questions/66280106/hide-messages-from-particular-users/66280249#66280249)
-- [Answer by dippas for What do I need to do with this error 'Expected an assignment or function call and instead saw an expression'?](https://stackoverflow.com/questions/66267206/what-do-i-need-to-do-with-this-error-expected-an-assignment-or-function-call-an/66267427#66267427)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
