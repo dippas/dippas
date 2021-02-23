@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for How to prevent background colour going around the legend tag](https://stackoverflow.com/questions/66334322/how-to-prevent-background-colour-going-around-the-legend-tag/66334520#66334520)
 - [Answer by dippas for Why aren't my Bootstrap columns next to each other?](https://stackoverflow.com/questions/66323744/why-arent-my-bootstrap-columns-next-to-each-other/66323826#66323826)
 - [Answer by dippas for How to remove an element added by JS](https://stackoverflow.com/questions/66317051/how-to-remove-an-element-added-by-js/66317121#66317121)
 - [Answer by dippas for Apply :hover on parent div but not on child elements](https://stackoverflow.com/questions/66306512/apply-hover-on-parent-div-but-not-on-child-elements/66306549#66306549)
 - [Answer by dippas for How to stop an adjacent button from moving with a button with has a changing margin](https://stackoverflow.com/questions/66295644/how-to-stop-an-adjacent-button-from-moving-with-a-button-with-has-a-changing-mar/66295687#66295687)
-- [Answer by dippas for Hide messages from particular users](https://stackoverflow.com/questions/66280106/hide-messages-from-particular-users/66280249#66280249)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
