@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for jquery fires twice during on click](https://stackoverflow.com/questions/66398915/jquery-fires-twice-during-on-click/66398935#66398935)
 - [Answer by dippas for SetInterval() with “if” condition that give the value to a array](https://stackoverflow.com/questions/66398205/setinterval-with-if-condition-that-give-the-value-to-a-array/66398236#66398236)
 - [Answer by dippas for three li with equal width](https://stackoverflow.com/questions/66378075/three-li-with-equal-width/66378131#66378131)
 - [Answer by dippas for How to use JavaScript to make an option selected in a dropdown?](https://stackoverflow.com/questions/66374271/how-to-use-javascript-to-make-an-option-selected-in-a-dropdown/66374319#66374319)
 - [Answer by dippas for Display: inline-block last-child width 100% doesn't align with its siblings](https://stackoverflow.com/questions/66361345/display-inline-block-last-child-width-100-doesnt-align-with-its-siblings/66361372#66361372)
-- [Answer by dippas for How to prevent background colour going around the legend tag](https://stackoverflow.com/questions/66334322/how-to-prevent-background-colour-going-around-the-legend-tag/66334520#66334520)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
