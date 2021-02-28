@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for How to make image resize with media query?](https://stackoverflow.com/questions/66404877/how-to-make-image-resize-with-media-query/66404922#66404922)
 - [Answer by dippas for Bootstrap columns of 3 + 9 not on same line](https://stackoverflow.com/questions/66401646/bootstrap-columns-of-3-9-not-on-same-line/66402044#66402044)
 - [Answer by dippas for jQuery fires twice for two nested elements with the same class name](https://stackoverflow.com/questions/66398915/jquery-fires-twice-for-two-nested-elements-with-the-same-class-name/66398935#66398935)
 - [Answer by dippas for SetInterval() with “if” condition that give the value to a array](https://stackoverflow.com/questions/66398205/setinterval-with-if-condition-that-give-the-value-to-a-array/66398236#66398236)
 - [Answer by dippas for three li with equal width](https://stackoverflow.com/questions/66378075/three-li-with-equal-width/66378131#66378131)
-- [Answer by dippas for How to use JavaScript to make an option selected in a dropdown?](https://stackoverflow.com/questions/66374271/how-to-use-javascript-to-make-an-option-selected-in-a-dropdown/66374319#66374319)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
