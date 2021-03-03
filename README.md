@@ -1,4 +1,4 @@
-### Hi there, I'm Fábio Serpa ![avatar](https://avatars3.githubusercontent.com/u/10220287?s=40&v=4)
+### Hi there, I'm Fábio Serpa
 
 I am a person who loves everything about Internet &amp; web development. At the moment I am a senior frontend developer at FEVER. digital agency in Portugal
 
