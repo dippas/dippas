@@ -17,7 +17,7 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by dippas for Way to use user overriden SCSS variables in a custom library](https://stackoverflow.com/questions/66952019/way-to-use-user-overriden-scss-variables-in-a-custom-library/66952759#66952759)
+- [Answer by dippas for Way to use user overridden SCSS variables in a custom library](https://stackoverflow.com/questions/66952019/way-to-use-user-overridden-scss-variables-in-a-custom-library/66952759#66952759)
 - [Answer by dippas for Boostrap 4: How to inline text supposed to be hidden on small screens?](https://stackoverflow.com/questions/66478726/boostrap-4-how-to-inline-text-supposed-to-be-hidden-on-small-screens/66478849#66478849)
 - [Answer by dippas for How to display two columns in mobile using bootstrap 5?](https://stackoverflow.com/questions/66444960/how-to-display-two-columns-in-mobile-using-bootstrap-5/66444999#66444999)
 - [Answer by dippas for Bootstrap columns of 3 + 9 not on same line](https://stackoverflow.com/questions/66401646/bootstrap-columns-of-3-9-not-on-same-line/66402044#66402044)
