@@ -17,11 +17,11 @@ I am a person who loves everything about Internet &amp; web development. At the 
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for Is it accessible to use SVG in IMG tag?](https://stackoverflow.com/questions/68033130/is-it-accessible-to-use-svg-in-img-tag/68033172#68033172)
 - [Answer by dippas for Why is the opacity of the background color of the HTML hr tag decreasing?](https://stackoverflow.com/questions/67555320/why-is-the-opacity-of-the-background-color-of-the-html-hr-tag-decreasing/67555567#67555567)
 - [Answer by dippas for Word spacing is not working, am I targeting the wrong <>?](https://stackoverflow.com/questions/67100189/word-spacing-is-not-working-am-i-targeting-the-wrong/67100311#67100311)
 - [Answer by dippas for Boostrap 4: How to inline text supposed to be hidden on small screens?](https://stackoverflow.com/questions/66478726/boostrap-4-how-to-inline-text-supposed-to-be-hidden-on-small-screens/66478849#66478849)
 - [Answer by dippas for How to display two columns in mobile using bootstrap 5?](https://stackoverflow.com/questions/66444960/how-to-display-two-columns-in-mobile-using-bootstrap-5/66444999#66444999)
-- [Answer by dippas for Bootstrap columns of 3 + 9 not on same line](https://stackoverflow.com/questions/66401646/bootstrap-columns-of-3-9-not-on-same-line/66402044#66402044)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
