@@ -1,9 +1,4 @@
-### Hi there, I'm Fábio Serpa
-
-I am a person who loves everything about Internet &amp; web development. At the moment I am a senior frontend developer at FEVER. digital agency in Portugal
-
----
-[![Buy me Coffee](https://cdn.buymeacoffee.com/buttons/lato-black.png)](https://www.buymeacoffee.com/dippas)
+[![Buy me Coffee](https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9pbWcuYnV5bWVhY29mZmVlLmNvbS9hcGkvP3VybD1hSFIwY0hNNkx5OWpaRzR1WW5WNWJXVmhZMjltWm1WbExtTnZiUzkxY0d4dllXUnpMM0J5YjJacGJHVmZjR2xqZEhWeVpYTXZNakF5TUM4d015OW1aalZrTXpBellUQTJPVGxpTXpsaE1XTTFaakE1WW1Fd016YzNOV0k1WXk1cWNHYz0mc2l6ZT0zMDAmbmFtZT1kaXBwYXM=&creator=dippas&is_creating=a%20frontend%20developer%20&design_code=1&design_color=%2379D6B5&slug=dippas)](https://www.buymeacoffee.com/dippas)
 ---
 
 ### My Github stats
