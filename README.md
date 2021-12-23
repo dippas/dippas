@@ -3,9 +3,10 @@
 
 ### My Github stats
 [![dippas's github stats](https://github-readme-stats.vercel.app/api?username=dippas&show_icons=true&theme=dark)](https://github.com/dippas)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dippas&theme=dark&layout=compact)](https://github.com/dippas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dippas&theme=dark&layout=compact&langs_count=6)](https://github.com/dippas)
 
 ### My Github projects
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=dippas&repo=shuffler&theme=dark)](https://github.com/dippas/shuffler)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=dippas&repo=WebWhatsapp-Native-DarkMode&theme=dark)](https://github.com/dippas/WebWhatsapp-Native-DarkMode)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=dippas&repo=DeleteNonio&theme=dark)](https://github.com/dippas/deletenonio)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=dippas&repo=Frontend-Starterkit&theme=dark)](https://github.com/dippas/frontend-starterkit)
