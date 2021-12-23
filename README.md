@@ -22,7 +22,7 @@
 
 ### DEV.to posts
 <!-- BLOG-POST-LIST:START -->
-- [How to sort users in talks/meetings](https://dev.to/dippas/fun-way-to-sort-how-people-will-start-talking-in-meetings-with-daily-quotes-to-boost-your-day-1epg)
+- [Fun way to sort users in talks/meetings](https://dev.to/dippas/fun-way-to-sort-how-people-will-start-talking-in-meetings-with-daily-quotes-to-boost-your-day-1epg)
 - [Object-fit cross-browser solution](https://dev.to/dippas/object-fit-cross-browser-solution-44jb)
 - [Frontend Starter-Kit](https://dev.to/dippas/frontend-starter-kit-1fok)
 - [DeleteNonio - Extension for Portuguese news websites](https://dev.to/dippas/deletenonio-extension-for-portuguese-news-websites-259n)
