@@ -13,11 +13,11 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for Accordion only toggle first item in PHP function](https://stackoverflow.com/questions/70480478/accordion-only-toggle-first-item-in-php-function/70480569#70480569)
 - [Answer by dippas for Navbar list flex does not work how can I fix it](https://stackoverflow.com/questions/70480234/navbar-list-flex-does-not-work-how-can-i-fix-it/70480259#70480259)
 - [Answer by dippas for How do I call forEach in an addEventListener?](https://stackoverflow.com/questions/68582538/how-do-i-call-foreach-in-an-addeventlistener/68582710#68582710)
 - [Answer by dippas for How can I detect when the mouse leaves the window?](https://stackoverflow.com/questions/923299/how-can-i-detect-when-the-mouse-leaves-the-window/68429615#68429615)
 - [Answer by dippas for Is it accessible to use SVG in IMG tag?](https://stackoverflow.com/questions/68033130/is-it-accessible-to-use-svg-in-img-tag/68033172#68033172)
-- [Answer by dippas for Why is the opacity of the background color of the HTML hr tag decreasing?](https://stackoverflow.com/questions/67555320/why-is-the-opacity-of-the-background-color-of-the-html-hr-tag-decreasing/67555567#67555567)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
