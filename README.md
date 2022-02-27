@@ -32,7 +32,6 @@
 ### You can find me online
 [![Linkedin](https://i.imgur.com/WsVT8IF.png)](https://www.linkedin.com/in/fabioserpa/)
 [![SO](https://i.imgur.com/6wGKyEh.png)](https://stackoverflow.com/users/3448527/dippas)
-[![Twitter](https://i.imgur.com/phxhAbA.png)](https://twitter.com/fabioserpa)
 
 ### Visitors
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dippas.dippas)
