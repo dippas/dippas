@@ -13,11 +13,11 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for Why does my CSS Close button have two X characters?](https://stackoverflow.com/questions/71575307/why-does-my-css-close-button-have-two-x-characters/71575460#71575460)
+- [Answer by dippas for Potential issues for recursive function not being called in another function](https://stackoverflow.com/questions/71575018/potential-issues-for-recursive-function-not-being-called-in-another-function/71575159#71575159)
 - [Answer by dippas for JS Filter Object that includes array](https://stackoverflow.com/questions/71573943/js-filter-object-that-includes-array/71574053#71574053)
 - [Answer by dippas for CSS :first-of-type selector apply to all &lpar;using html tag and not class&rpar;](https://stackoverflow.com/questions/71572602/css-first-of-type-selector-apply-to-all-using-html-tag-and-not-class/71572708#71572708)
 - [Answer by dippas for Console log returning empty value when calling for input field variable](https://stackoverflow.com/questions/71562241/console-log-returning-empty-value-when-calling-for-input-field-variable/71562339#71562339)
-- [Answer by dippas for For event.target in onclick - &quot;Uncaught TypeError TypeError: Cannot set properties of undefined &lpar;setting &#39;value&#39;&rpar;&quot;](https://stackoverflow.com/questions/71543861/for-event-target-in-onclick-uncaught-typeerror-typeerror-cannot-set-properti/71543917#71543917)
-- [Answer by dippas for Caret is invisible on contenteditable div when parent has filter](https://stackoverflow.com/questions/71382907/caret-is-invisible-on-contenteditable-div-when-parent-has-filter/71382955#71382955)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
