@@ -13,11 +13,11 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for Continue function if returned function is not returning](https://stackoverflow.com/questions/71577718/continue-function-if-returned-function-is-not-returning/71577803#71577803)
 - [Answer by dippas for Why float: CSS property doesn&#39;t work in @media queries?](https://stackoverflow.com/questions/71577207/why-float-css-property-doesnt-work-in-media-queries/71577272#71577272)
 - [Answer by dippas for trying to make validation on radiobutton](https://stackoverflow.com/questions/71575998/trying-to-make-validation-on-radiobutton/71576245#71576245)
 - [Answer by dippas for Why does my CSS Close button have two X characters?](https://stackoverflow.com/questions/71575307/why-does-my-css-close-button-have-two-x-characters/71575460#71575460)
 - [Answer by dippas for Potential issues for recursive function not being called in another function](https://stackoverflow.com/questions/71575018/potential-issues-for-recursive-function-not-being-called-in-another-function/71575159#71575159)
-- [Answer by dippas for JS Filter Object that includes array](https://stackoverflow.com/questions/71573943/js-filter-object-that-includes-array/71574053#71574053)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
