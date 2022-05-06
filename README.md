@@ -13,11 +13,11 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by dippas for Cannot get div items ordered out of sequence with bootstrap](https://stackoverflow.com/questions/72141604/cannot-get-div-items-ordered-out-of-sequence-with-bootstrap/72141792#72141792)
 - [Answer by dippas for how manipulate CSS display property using active class with JS](https://stackoverflow.com/questions/71745162/how-manipulate-css-display-property-using-active-class-with-js/71745219#71745219)
 - [Answer by dippas for Why float: CSS property doesn&#39;t work in @media queries?](https://stackoverflow.com/questions/71577207/why-float-css-property-doesnt-work-in-media-queries/71577272#71577272)
 - [Answer by dippas for trying to make validation on radiobutton](https://stackoverflow.com/questions/71575998/trying-to-make-validation-on-radiobutton/71576245#71576245)
 - [Answer by dippas for Why does my CSS Close button have two X characters?](https://stackoverflow.com/questions/71575307/why-does-my-css-close-button-have-two-x-characters/71575460#71575460)
-- [Answer by dippas for Potential issues for recursive function not being called in another function](https://stackoverflow.com/questions/71575018/potential-issues-for-recursive-function-not-being-called-in-another-function/71575159#71575159)
 <!-- STACKOVERFLOW:END -->
 
 ### DEV.to posts
