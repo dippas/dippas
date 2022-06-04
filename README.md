@@ -1,37 +1,17 @@
-[![Buy me Coffee](https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9pbWcuYnV5bWVhY29mZmVlLmNvbS9hcGkvP3VybD1hSFIwY0hNNkx5OWpaRzR1WW5WNWJXVmhZMjltWm1WbExtTnZiUzkxY0d4dllXUnpMM0J5YjJacGJHVmZjR2xqZEhWeVpYTXZNakF5TUM4d015OW1aalZrTXpBellUQTJPVGxpTXpsaE1XTTFaakE1WW1Fd016YzNOV0k1WXk1cWNHYz0mc2l6ZT0zMDAmbmFtZT1kaXBwYXM=&creator=dippas&is_creating=a%20frontend%20developer%20&design_code=1&design_color=%2379D6B5&slug=dippas)](https://www.buymeacoffee.com/dippas)
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patua+One&size=24&color=17F700&vCenter=true&lines=Hi+there+I'm+F%C3%A1bio+Serpa+!;I'm+a+Frontend+Dev+%40+Mindera.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-### My Github stats
-[![dippas's github stats](https://github-readme-stats.vercel.app/api?username=dippas&show_icons=true&theme=dark)](https://github.com/dippas)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dippas&theme=dark&layout=compact&langs_count=6)](https://github.com/dippas)
-
-### My Github projects
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=dippas&repo=shuffler&theme=dark)](https://github.com/dippas/shuffler)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=dippas&repo=WebWhatsapp-Native-DarkMode&theme=dark)](https://github.com/dippas/WebWhatsapp-Native-DarkMode)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=dippas&repo=DeleteNonio&theme=dark)](https://github.com/dippas/deletenonio)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=dippas&repo=Frontend-Starterkit&theme=dark)](https://github.com/dippas/frontend-starterkit)
-
-### StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-- [Answer by dippas for How do I iterate through an inline var using pug](https://stackoverflow.com/questions/72265449/how-do-i-iterate-through-an-inline-var-using-pug/72265825#72265825)
-- [Answer by dippas for Cannot get div items ordered out of sequence with bootstrap](https://stackoverflow.com/questions/72141604/cannot-get-div-items-ordered-out-of-sequence-with-bootstrap/72141792#72141792)
-- [Answer by dippas for how manipulate CSS display property using active class with JS](https://stackoverflow.com/questions/71745162/how-manipulate-css-display-property-using-active-class-with-js/71745219#71745219)
-- [Answer by dippas for Why float: CSS property doesn&#39;t work in @media queries?](https://stackoverflow.com/questions/71577207/why-float-css-property-doesnt-work-in-media-queries/71577272#71577272)
-- [Answer by dippas for trying to make validation on radiobutton](https://stackoverflow.com/questions/71575998/trying-to-make-validation-on-radiobutton/71576245#71576245)
-<!-- STACKOVERFLOW:END -->
-
-### DEV.to posts
-<!-- BLOG-POST-LIST:START -->
-- [Fun way to sort users in talks/meetings](https://dev.to/dippas/fun-way-to-sort-how-people-will-start-talking-in-meetings-with-daily-quotes-to-boost-your-day-1epg)
-- [Object-fit cross-browser solution](https://dev.to/dippas/object-fit-cross-browser-solution-44jb)
-- [Frontend Starter-Kit](https://dev.to/dippas/frontend-starter-kit-1fok)
-- [DeleteNonio - Extension for Portuguese news websites](https://dev.to/dippas/deletenonio-extension-for-portuguese-news-websites-259n)
-- [Web Whatsapp Native dark Mode](https://dev.to/dippas/web-whatsapp-native-dark-mode-3baa)
-<!-- BLOG-POST-LIST:END -->
+![Metrics](https://metrics.lecoq.io/dippas?template=classic&base.indepth=true&isocalendar=1&languages=1&achievements=1&stackoverflow=1&base.indepth=true&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&stackoverflow.user=3448527&stackoverflow.sections=answers-top&stackoverflow.limit=3&stackoverflow.lines=5&stackoverflow.lines.snippet=2&config.timezone=Europe%2FLisbon)
 
 ### You can find me online
-[![Linkedin](https://i.imgur.com/WsVT8IF.png)](https://www.linkedin.com/in/fabioserpa/)
-[![SO](https://i.imgur.com/6wGKyEh.png)](https://stackoverflow.com/users/3448527/dippas)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fabioserpa)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fabioserpa)
+[![DEV.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/dippas)
+
+### Vibing to
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=11126541822&cover_image=true&theme=default)
+
+### Daily Inspiration
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Visitors
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dippas.dippas)
