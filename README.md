@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patua+One&size=24&color=17F700&vCenter=true&lines=Hi+there+I'm+F%C3%A1bio+Serpa+!;I'm+a+Frontend+Dev+%40+Mindera.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
+![Metrics](/github-metrics.svg)
+
 ### Buy me a Coffee
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/dippas)
 [![BuyMeACoffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-orange?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/dippas)
