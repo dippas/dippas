@@ -3,6 +3,7 @@
 ![Metrics](https://metrics.lecoq.io/dippas?template=classic&base.indepth=true&isocalendar=1&languages=1&achievements=1&stackoverflow=1&base.indepth=true&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&stackoverflow.user=3448527&stackoverflow.sections=answers-top&stackoverflow.limit=3&stackoverflow.lines=3&stackoverflow.lines.snippet=2&config.timezone=Europe%2FLisbon)
 
 ### Buy me a Coffee
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/dippas)
 [![BuyMeACoffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-orange?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/dippas)
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal)](http://paypal.me/fserpa)
 
