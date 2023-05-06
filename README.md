@@ -17,6 +17,3 @@
 
 ### Daily Inspiration
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-### Visitors
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dippas.dippas)
