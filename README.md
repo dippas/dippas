@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patua+One&size=24&color=17F700&vCenter=true&lines=Hi+there+I'm+F%C3%A1bio+Serpa+!;I'm+a+Software+Engineer+%40+Mindera.;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patua+One&size=24&color=17F700&vCenter=true&lines=Hi+there+I'm+F%C3%A1bio+Serpa+!;I'm+a+Frontend+Software+Engineer+%40+Mindera.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ### StackOverflow
 [![user:3448527's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/3448527?theme=dark)](https://stackoverflow.com/users/3448527/dippas)
